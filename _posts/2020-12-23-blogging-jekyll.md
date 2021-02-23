@@ -1,7 +1,7 @@
 ---
 title: "Post: Blogging with Jekyll"
 categories:
-  - blog
+  - Blog
   - Tech
 
 tags:

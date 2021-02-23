@@ -106,6 +106,8 @@ defaults:
       layout: single
       author_profile: true
 
+excerpt_separator: "<!--more-->"
+
 category_archive:
   type: liquid
   path: /categories/

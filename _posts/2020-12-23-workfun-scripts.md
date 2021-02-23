@@ -1,9 +1,12 @@
 ---
 title: "Post: Scripts For Work"
+categories: 
+  - Tech
+  - Blog
 tags:
   - PowerShell
-  - joy to work
-  - skills 
+  - Joy To Work
+  - Skills 
 ---
 
 ### makes a word cloud from copied text
