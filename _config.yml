@@ -16,7 +16,7 @@
 title: no pretending
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  What comes to mind and leaves it 
+  What comes to mind ...
   
 #twitter_username: username
 #github_username: username
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Roman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Raised on the border, and still Borderline.."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
