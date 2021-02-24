@@ -1,12 +1,12 @@
 ---
-title: "biographies"
+title: "Post: Biographies"
 date: 2021-2-23T15:00:30-04:00
 categories:
   - Blog
 tags:
   - Biography
 header:
-  image: /assets/images/wordcloud-marsha
+  image: /assets/images/wordcloud-marsha.png
   image_description: "marsha's wikipage wordcloud"
 ---
 ### Marsha Linehan 
