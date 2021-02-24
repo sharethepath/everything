@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Life.. Life? Life! 
+Life... Life? Life! Life.

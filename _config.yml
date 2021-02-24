@@ -57,9 +57,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Roman"
+#  name   : "" 
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Raised on the border, and still Borderline.."
+#  bio    : 
+  motto: "a satisfying life for beings, including those 20+ years olds, 30+, 40+, 50+, 
+    including sensitive beings, including males"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
