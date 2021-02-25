@@ -17,6 +17,8 @@ title: no pretending
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   What comes to mind ...
+  "is there a way of life - a satisfying life - for all beings? how about those 20+ years olds, 30+, 40+, 50+? 
+      how about sensitive beings? how about sensitive males, their families, societies? If no, how can I contribute?"
   
 #twitter_username: username
 #github_username: username
@@ -59,9 +61,8 @@ plugins:
 author:
 #  name   : "" 
   avatar : "/assets/images/bio-photo.jpg"
-#  bio    : 
-  motto: "a satisfying life for beings, including those 20+ years olds, 30+, 40+, 50+, 
-    including sensitive beings, including males"
+  location: changed a lot. China atm
+  bio: 
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
