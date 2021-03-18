@@ -10,11 +10,12 @@ tags:
 ---
 
 ### makes a word cloud from copied text
-On a Windows machine press Win+X, then press 'I' that will launch PowerShell. 
+On a Windows machine press Win+X, then press 'I' that will launch PowerShell (on a Mac you might install PowerShell first). 
 Afterwards install a module. 
 ```PowerShell
 Install-Module PSWordCloud
 ```
+Press [Y]es along the way to allow the install. 
 When it's done, you will be able to copy the text and run the command below to generate your word cloud. 
 ```PowerShell
 Get-Clipboard | New-WordCloud -Path .\wordcloud.svg -Typeface georgia -ImageSize 720p -AllowRotation none
@@ -27,3 +28,5 @@ source: [devblogs.microsoft.com](https://devblogs.microsoft.com/scripting/use-wi
 
 Get-Childitem –Path C:\ -Recurse
 Get-Childitem –Path C:\ -Include *HSG* -Exclude *.JPG,*.MP3,*.TMP -File -Recurse -ErrorAction SilentlyContinue 
+
+#### Updated: 2021-03-16
