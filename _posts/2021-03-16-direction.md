@@ -13,7 +13,7 @@ Search for ...
 Community? Society? Congruent role in the society. 
 
 2. Physical location that I can call home? Can be the same as spiritual home. 
-Belarus? China? US? Argentina? 
+Belarus? China? (Not a migrant nation) US? Argentina? 
 
 3. Vocation. 
 My (additional to the work for a living?) company (project?). That what I thought before. To have significant shares for influence to help some individuals, or community, organization, society. 
@@ -28,7 +28,7 @@ Could be online marketing? Online brand building? As I play with blogging platfo
 Via writing, storytelling. Adding some pics here and there. 
 
 ### How do I fill my days at the moment? 
-- Exercises and/or meditation. Done it for ages. Currently doing Tai Chi, as a sociably acceptable (well formalized) exercising routine in parks. Also, because it helps my stiff hip joints. 
+- Exercises and/or meditation. Done it for ages. Currently doing Tai Chi, as a socially acceptable (well formalized) exercising routine in parks. Also, because it helps my stiff hip joints. 
 - Prayers, expressing (ideas, talking out) and/or journaling. 
 - Connecting: writing to people, asking questions. 
 
@@ -37,7 +37,7 @@ Via writing, storytelling. Adding some pics here and there.
 
 Current prayers: for discernment, better decisions, enough wisdom, courage and integrity for better critical (serious) life decisions. 
 For proper society. Additionally, for healing and being healed when it's needed to be (almost mantra). 
-Sincere gratitude: internal peace - peaceful moments, joyful moments, good communication. Proper achievements if any (do I have any? Can I count teaching kids English for 2 years?). 
+Sincere gratitude: internal peace - peaceful moments, joyful moments, good communication.
 
 Values (and desire) internal: life satisfaction, to have DIRECTION in life, good interactions. Guidance (for the role in society), belonging. Chances over and over (I could have made a better turn somewhere already..)
 

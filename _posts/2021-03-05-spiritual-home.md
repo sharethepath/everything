@@ -20,7 +20,8 @@ Temples were accessible while I was in China. Churches - not so much.
 Community? Online mostly for the English speaker. 
 
 ### Protestants 
-Well, those are diverse. I've heard of Anabaptists, Baptists. 
+Anabaptists, Baptists - only read a little bit about them. Looks like the most amazing bunch, actually. Tend to be workaholics somehow. 
+Don't seem to have a way for contemplative people, very actionable. 
 
 ### On UU, my current experience
 Offline: I've been once in Chicago Suburbs while visiting my relatives. 
@@ -31,6 +32,7 @@ Online:
 
 ### Catholics and Jesuits
 When I've searched Buddhist prayers (around 2019) - Jesuit prayers were what I found. 
+I've searched in English, no wonder. 
 
 #### Updated: 2021-03-16 
 
