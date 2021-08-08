@@ -6,33 +6,30 @@ tags:
   - Life
   - Home 
   - Faith 
-  - Spiritual 
+  - Spiritual Traditions 
 ---
 Search for Spiritual home. 
 
-from the 1st post on direction and it's discernment: [post](https://scriptingforgood.github.io/no-pretending/2021-03-16-direction)
+I suppose that there should be feedback, compassionate human interaction there. Someone capable and willing to listen, understand. 
 
-I think that there should be feedback, human interaction there. Someone capable to listen, someone to give a good advice. 
+So far explored: 
+### Buddhists: listened to Thich Nhat Hanh. 
+Physically: been to plently of temples while I was in China (Beijing, HangZhou, Shanghai). 
+Buddhist temples and monasteries sometime have teachers, masters, lamas. 
 
-So far: 
-### Buddhists: listened to TNH. 
-Temples were accessible while I was in China. Churches - not so much. 
-Community? Online mostly for the English speaker. 
+### Taoists
+They have developed their deities, too. However, Taoist philosophy is no deist, neither are Buddhist and Confucian teachings (none of them have Gods from their origin). Many of us people, however, have a natural inclination to believe. Furthermore, having faith is important. 
 
-### Protestants 
-Anabaptists, Baptists - only read a little bit about them. Looks like the most amazing bunch, actually. Tend to be workaholics somehow. 
-Don't seem to have a way for contemplative people, very actionable. 
+### Quakers, Unitarian Universalists 
+Christian, protestant roots of some liberal traditions. 
 
-### On UU, my current experience
-Offline: I've been once in Chicago Suburbs while visiting my relatives. 
+**Quakers** are more contemplative, peaceful. 
+**Unitarian Universalists** responsible search; values of wisdom and courage. 
+They can be very welcoming. 
 
-Online: 
-1. I've found Utica! And following Utica's mailing list. Time difference though - 11pm+ on Sunday for me, not the greatest time for a coffee hour. 
-2. That's it. There is also more widespread online community. From UUWorld, to FB and Reddit. 
+### Other Protestant groups 
+Amish, Anabaptists, Baptists, Adventists, Presbyterians, even Mormons - only read a little bit about them.
+Some of them tend to be workaholics. Very actionable. 
 
-### Catholics and Jesuits
-When I've searched Buddhist prayers (around 2019) - Jesuit prayers were what I found. 
-I've searched in English, no wonder. 
-
-#### Updated: 2021-03-16 
+#### Updated: 2021-08-08
 
