@@ -1,5 +1,5 @@
 ---
-title: "Post: Learnt from Thich Nhat Hanh"
+title: "Post: Explored from Thich Nhat Hanh"
 categories:
   - Blog 
 tags:
