@@ -20,10 +20,10 @@ Here is my example (summer 2021) while searching for  a proper way to make a liv
 - exploring more on a spiritual path, community (Christian traditions, Quakers and UU in particular, Buddha's teachings); 
 - acquaring new skills: signed up for a Project Management course. 
 - applied for work by sending my CV, mostly in IT field. 
-- thought about helping people that I can relate and hence help better on their issues. 
+- thought on whom could I possibly help; health and life coach. 
 - reaching out to friends. 
 
 After the decision is made - making it work. 
-- Remember why have you started this (like being able to contribute to certain ways for beings, freedom of speech, financial independence, trust issues, etc). 
+- Remember why have you started this (like being able to contribute to certain ways for beings, equality, freedom of speech, financial independence, trust issues, etc). 
 
 #### Updated: 2021-08-31
