@@ -15,3 +15,11 @@ Furthermore, credit and charge cards usage surged from around 600 million transa
 To conclude, the overall picture changed significantly by 2007, with the debit cards method dominating the non-cash transactions. 
 
 Describing the Line Graph, 163 words. 
+
+
+
+Interesting expressions: 
+To really understand REST coming from RPC, you have to completely invert the way you think about things. And the many, many articles I've found online fail **to ring this distinction loud and clear**. That's why I included it here in my post, I think it's an incredibly crucial piece of information to reach people who were trapped in the same mindset I was in for so long.
+
+- Absolutely immaculate = flawless 
+- Have my imaginary Internet point! 
