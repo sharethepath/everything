@@ -12,9 +12,6 @@ Not my fight: Language (whether it is Belarusian, Russian, English or Chinese).
 Not my fight: RF 
 
 I do like, however: English language. I seem to like values of contemporary (2000s) nations like the US, Canada and France. 
-Argentina? Czechia? Brazil? 
-
-Slightly controversial? Christians. Catholics and Protestants. 
 
 Reverence. 
 Buddha, Dharma, Sangha... 
